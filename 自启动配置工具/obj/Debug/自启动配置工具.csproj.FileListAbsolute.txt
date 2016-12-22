@@ -1,0 +1,9 @@
+F:\2016\自启动配置工具\自启动配置工具\bin\Debug\自启动配置工具.exe
+F:\2016\自启动配置工具\自启动配置工具\bin\Debug\自启动配置工具.pdb
+F:\2016\自启动配置工具\自启动配置工具\bin\Debug\Interop.IWshRuntimeLibrary.dll
+F:\2016\自启动配置工具\自启动配置工具\obj\Debug\自启动配置工具.csprojResolveAssemblyReference.cache
+F:\2016\自启动配置工具\自启动配置工具\obj\Debug\自启动配置工具.Form1.resources
+F:\2016\自启动配置工具\自启动配置工具\obj\Debug\自启动配置工具.Properties.Resources.resources
+F:\2016\自启动配置工具\自启动配置工具\obj\Debug\自启动配置工具.csproj.GenerateResource.Cache
+F:\2016\自启动配置工具\自启动配置工具\obj\Debug\自启动配置工具.exe
+F:\2016\自启动配置工具\自启动配置工具\obj\Debug\自启动配置工具.pdb
