@@ -68,12 +68,13 @@ namespace 自启动配置工具
         /// <summary>
         /// 取消开机自启-删除注册表
         /// </summary>
-        /// <param name="name">注册表项的名字</param>
+        /// <param name="exePath">可执行文件的完整路径</param>
         /// <returns></returns>
-        public static bool CancelSelfStarting(string name)
+        public static bool CancelSelfStarting(string exePath)
         {
             try
             {
+                string name = Path.GetFileName(exePath);
                 RegistryKey rk = Registry.LocalMachine;
                 RegistryKey softWare = rk.OpenSubKey("Software");
                 RegistryKey microsoft = softWare.OpenSubKey("Microsoft");
